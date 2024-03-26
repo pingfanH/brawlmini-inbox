@@ -1,0 +1,1397 @@
+{
+  "entries": {
+    "eventEntries": [],
+    "newsEntries": [
+      {
+        "id": "2ea325ZPU1qGIvQb446DLk",
+        "index": 0,
+        "targeting": null,
+        "metadata": {
+          "id": "2ea325ZPU1qGIvQb446DLk",
+          "publishedVersion": 11,
+          "publishedAt": "2024-03-14T08:08:32.488Z"
+        },
+        "postDate": "1710403712",
+        "lang": "en",
+        "section": "newsEntries",
+        "title": "皇室奇兵停止开发",
+        "categories": [{ "title": "News", "color": "#99ffbb" }],
+        "newUntil": "1713974400",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+        "thumbnail": {
+          "small": {
+            "title": "900x506.png",
+            "path": "/bundle/clashmini/900x506.webp?w=180&h=101&f=center&fit=fill",
+            "width": 180,
+            "height": 101
+          },
+          "smallRetina": {
+            "title": "900x506.png",
+            "path": "/bundle/clashmini/900x506.webp?w=360&h=202&f=center&fit=fill",
+            "width": 360,
+            "height": 202
+          },
+          "medium": {
+            "title": "900x506.png",
+            "path": "/bundle/clashmini/900x506.webp?w=450&h=253&f=center&fit=fill",
+            "width": 450,
+            "height": 253
+          },
+          "mediumRetina": {
+            "title": "900x506.png",
+            "path": "/bundle/clashmini/900x506.webp?w=540&h=304&f=center&fit=fill",
+            "width": 540,
+            "height": 304
+          },
+          "large": {
+            "title": "900x506.png",
+            "path": "/bundle/clashmini/900x506.webp?w=720&h=405&f=center&fit=fill",
+            "width": 720,
+            "height": 405
+          },
+          "largeRetina": {
+            "title": "900x506.png",
+            "path": "/bundle/clashmini/900x506.webp?w=900&h=506&f=center&fit=fill",
+            "width": 900,
+            "height": 506
+          }
+        },
+        "heroImage": {
+          "small": {
+            "title": "1920x1440.png",
+            "path": "/bundle/clashmini/images/1920x1440.png?w=384&h=288&f=center&fit=fill",
+            "width": 384,
+            "height": 288
+          },
+          "smallRetina": {
+            "title": "1920x1440.png",
+            "path": "/1920x1440.png?w=768&h=576&f=center&fit=fill",
+            "width": 768,
+            "height": 576
+          },
+          "medium": {
+            "title": "1920x1440.png",
+            "path": "/bundle/clashmini/images/1920x1440.png?w=960&h=720&f=center&fit=fill",
+            "width": 960,
+            "height": 720
+          },
+          "mediumRetina": {
+            "title": "1920x1440.png",
+            "path": "/bundle/clashmini/images/1920x1440.png?w=1152&h=864&f=center&fit=fill",
+            "width": 1152,
+            "height": 864
+          },
+          "large": {
+            "title": "1920x1440.png",
+            "path": "/bundle/clashmini/images/1920x1440.png?w=1536&h=1152&f=center&fit=fill",
+            "width": 1536,
+            "height": 1152
+          },
+          "largeRetina": {
+            "title": "1920x1440.png",
+            "path": "/bundle/clashmini/images/1920x1440.png?w=1920&h=1440&f=center&fit=fill",
+            "width": 1920,
+            "height": 1440
+          }
+        },
+        "details": {
+          "0": {
+            "title": "",
+            "order": "0",
+            "type": "textBlock",
+            "body": "<p>尊敬的《皇室奇兵》玩家们，</p><p>自从《皇室奇兵》进入Beta测试以来，我们一直在追求一个简单的目标：打造最好的游戏。我们的梦想是创造出让尽可能多的人玩上多年并且永远铭记的伟大游戏。今天，我们做出了结束《皇室奇兵》开发的决定，这是一款不错的游戏，但并不是最终能实现我们梦想的游戏。</p><p>在过去的几次更新中，《皇室奇兵》在我们关心的各个方面都取得了显著的进步，这要归功于您们。但是，即使在所有这些改进之后，我们的质量标准仍然没有得到满足。特别是在最近几次更新中，我们看到了来自我们的创作者计划和Reddit、Discord社区的巅峰兴趣，他们提供了如何改进游戏的建设性反馈，我们花了很多时间尝试将所有这些反馈融入游戏中。我们还与您一起创造了令人难以置信的内容，从非常有趣的创作者制作的《迷你一刻》[Mini Minutes]到Discord上的舞台频道和极具创意的《迷你星期一》[Mini Mondays]，展现了您对游戏的真挚热爱。对此，我们感激不尽！能够与您这样一个如此关心我们的迷你游戏成长的社区一起工作是一种乐趣。</p><p>作为下一步，我们希望与社区举办最后一次Discord舞台频道，以纪念我们的传统，并解释在经历了这样一段旅程之后我们是如何做出这个决定的，所以请继续关注《皇室奇兵》Discord服务器上的这次对话。我们将邀请我们的内容创作者作为对话的联合主持人，并希望带领您了解我们的思考过程。</p><p>然而，我们仍然能够在Supercell和我们的社区中看到对游戏的极高潜力和热爱。考虑到这一点，我们决定致力于将《皇室奇兵》的体验带到《皇室战争》中，以实现其最大潜力。通过这样做，我们可以更好地服务更多的玩家，实现我们的最终目标和愿景。一旦我们就这一发展的下一步采取了具体措施，我们将尽快与您分享。</p><p>在接下来的几周中，您可以期待《皇室奇兵》发生以下变化：</p><ul><li>转移您的游戏内购买：<ul><li>如果您在《皇室奇兵》中进行了任何游戏内购买，并且玩其他任何Supercell游戏，请联系我们的玩家支持团队，他们将把这些购买转移到其他Supercell游戏中。</li><li>请注意：我们只能将购买转移到任何正在运行的游戏中。这包括《部落冲突》、《皇室战争》、《卡通农场》、《海岛奇兵》和《荒野乱斗》。此外，请确保您的Supercell ID已连接到《皇室奇兵》和其他游戏之间，然后再从《皇室奇兵》进行转移。</li></ul></li><li>联系支持团队的步骤：<ol><li>打开设置</li><li>点击“帮助与支持”按钮</li><li>点击右上角的蓝色聊天图标</li><li>点击“留言”按钮</li><li>按照提示操作</li></ol></li><li>游戏的下一步是什么？<ul><li>游戏内购买将被禁用。</li><li>游戏内将会出现弹出消息，提醒您游戏关闭的日期越来越近。</li><li>我们将在大约6周后（四月底）开始关闭服务器，以便玩家有充分的时间将游戏内购买转移到他们选择的Supercell游戏。在这6周之后，游戏将从列表中删除，以防止新下载。</li></ul></li></ul><p>我们为与您一起建立的这款游戏感到自豪，对我们围绕这款游戏创造的社区感到非常高兴。您对游戏的热爱是从第一天直到今天驱动我们前进的动力。现在，是时候收拾我们的迷你收藏品，将战斗版留到下一次战斗开始的时候了 - 在竞技场。</p><p>我们会再见！<br> -《皇室奇兵》开发团队</p>"
+          }
+        }
+      },
+      {
+        "id": "29ztgVvWGkcnSBkYGF63TT",
+        "index": 1,
+        "targeting": null,
+        "metadata": {
+          "id": "29ztgVvWGkcnSBkYGF63TT",
+          "publishedVersion": 12,
+          "publishedAt": "2024-02-27T01:37:10.745Z"
+        },
+        "postDate": "1708997830",
+        "lang": "en",
+        "section": "newsEntries",
+        "title": "Ranked Season 4 Preview",
+        "categories": [{ "title": "News", "color": "#99ffbb" }],
+        "newUntil": "1710172800",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+        "thumbnail": {
+          "small": {
+            "title": "U7_inbox_900x506.png",
+            "path": "/bundle/clashmini/U7_inbox_900x506.webp?w=180&h=101&f=center&fit=fill",
+            "width": 180,
+            "height": 101
+          },
+          "smallRetina": {
+            "title": "U7_inbox_900x506.png",
+            "path": "/bundle/clashmini/U7_inbox_900x506.webp?w=360&h=202&f=center&fit=fill",
+            "width": 360,
+            "height": 202
+          },
+          "medium": {
+            "title": "U7_inbox_900x506.png",
+            "path": "/bundle/clashmini/U7_inbox_900x506.webp?w=450&h=253&f=center&fit=fill",
+            "width": 450,
+            "height": 253
+          },
+          "mediumRetina": {
+            "title": "U7_inbox_900x506.png",
+            "path": "/bundle/clashmini/U7_inbox_900x506.webp?w=540&h=304&f=center&fit=fill",
+            "width": 540,
+            "height": 304
+          },
+          "large": {
+            "title": "U7_inbox_900x506.png",
+            "path": "/bundle/clashmini/U7_inbox_900x506.webp?w=720&h=405&f=center&fit=fill",
+            "width": 720,
+            "height": 405
+          },
+          "largeRetina": {
+            "title": "U7_inbox_900x506.png",
+            "path": "/bundle/clashmini/U7_inbox_900x506.webp?w=900&h=506&f=center&fit=fill",
+            "width": 900,
+            "height": 506
+          }
+        },
+        "heroImage": {
+          "small": {
+            "title": "U7_inbox_1920x1440.png",
+            "path": "/itokmmsh1501/qiWzV8gj5IhdEpnwqxkfz/5ed1b7a8aff6d1cbf77a007d2add5c79/U7_inbox_1920x1440.png?w=384&h=288&f=center&fit=fill",
+            "width": 384,
+            "height": 288
+          },
+          "smallRetina": {
+            "title": "U7_inbox_1920x1440.png",
+            "path": "/itokmmsh1501/qiWzV8gj5IhdEpnwqxkfz/5ed1b7a8aff6d1cbf77a007d2add5c79/U7_inbox_1920x1440.png?w=768&h=576&f=center&fit=fill",
+            "width": 768,
+            "height": 576
+          },
+          "medium": {
+            "title": "U7_inbox_1920x1440.png",
+            "path": "/itokmmsh1501/qiWzV8gj5IhdEpnwqxkfz/5ed1b7a8aff6d1cbf77a007d2add5c79/U7_inbox_1920x1440.png?w=960&h=720&f=center&fit=fill",
+            "width": 960,
+            "height": 720
+          },
+          "mediumRetina": {
+            "title": "U7_inbox_1920x1440.png",
+            "path": "/itokmmsh1501/qiWzV8gj5IhdEpnwqxkfz/5ed1b7a8aff6d1cbf77a007d2add5c79/U7_inbox_1920x1440.png?w=1152&h=864&f=center&fit=fill",
+            "width": 1152,
+            "height": 864
+          },
+          "large": {
+            "title": "U7_inbox_1920x1440.png",
+            "path": "/itokmmsh1501/qiWzV8gj5IhdEpnwqxkfz/5ed1b7a8aff6d1cbf77a007d2add5c79/U7_inbox_1920x1440.png?w=1536&h=1152&f=center&fit=fill",
+            "width": 1536,
+            "height": 1152
+          },
+          "largeRetina": {
+            "title": "U7_inbox_1920x1440.png",
+            "path": "/itokmmsh1501/qiWzV8gj5IhdEpnwqxkfz/5ed1b7a8aff6d1cbf77a007d2add5c79/U7_inbox_1920x1440.png?w=1920&h=1440&f=center&fit=fill",
+            "width": 1920,
+            "height": 1440
+          }
+        },
+        "details": {
+          "0": {
+            "title": "",
+            "order": "0",
+            "type": "textBlock",
+            "body": "<p>Hello everyone!</p><p>Welcome to the Ranked Season 4. The Season will begin on March 1st at 6:00 UTC.</p><p>In addition, the March Mini Pass will begin at the same time, bringing back the Walrus skin for Knight.</p>"
+          }
+        }
+      },
+      {
+        "id": "amOzOZQPByRMgS0i8Vt4d",
+        "index": 2,
+        "targeting": null,
+        "metadata": {
+          "id": "amOzOZQPByRMgS0i8Vt4d",
+          "publishedVersion": 19,
+          "publishedAt": "2024-02-13T08:51:49.382Z"
+        },
+        "postDate": "1707197222",
+        "lang": "en",
+        "section": "newsEntries",
+        "title": "February 6 Balance Changes",
+        "categories": [{ "title": "News", "color": "#99ffbb" }],
+        "newUntil": "1708358400",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+        "thumbnail": {
+          "small": {
+            "title": "Balance2-900@506.jpg",
+            "path": "/bundle/clashmini/Balance2-900_506.webp?w=180&h=101&f=center&fit=fill",
+            "width": 180,
+            "height": 101
+          },
+          "smallRetina": {
+            "title": "Balance2-900@506.jpg",
+            "path": "/bundle/clashmini/Balance2-900_506.webp?w=360&h=202&f=center&fit=fill",
+            "width": 360,
+            "height": 202
+          },
+          "medium": {
+            "title": "Balance2-900@506.jpg",
+            "path": "/bundle/clashmini/Balance2-900_506.webp?w=450&h=253&f=center&fit=fill",
+            "width": 450,
+            "height": 253
+          },
+          "mediumRetina": {
+            "title": "Balance2-900@506.jpg",
+            "path": "/bundle/clashmini/Balance2-900_506.webp?w=540&h=304&f=center&fit=fill",
+            "width": 540,
+            "height": 304
+          },
+          "large": {
+            "title": "Balance2-900@506.jpg",
+            "path": "/bundle/clashmini/Balance2-900_506.webp?w=720&h=405&f=center&fit=fill",
+            "width": 720,
+            "height": 405
+          },
+          "largeRetina": {
+            "title": "Balance2-900@506.jpg",
+            "path": "/bundle/clashmini/Balance2-900_506.webp?w=900&h=506&f=center&fit=fill",
+            "width": 900,
+            "height": 506
+          }
+        },
+        "heroImage": {
+          "small": {
+            "title": "balance 02_1920X1440.png",
+            "path": "/itokmmsh1501/2m02ZrFwjSKYBVB4lTZdh4/3ca2437931466b2c3dd6f8f15f27ab50/balance_02_1920X1440.png?w=384&h=288&f=center&fit=fill",
+            "width": 384,
+            "height": 288
+          },
+          "smallRetina": {
+            "title": "balance 02_1920X1440.png",
+            "path": "/itokmmsh1501/2m02ZrFwjSKYBVB4lTZdh4/3ca2437931466b2c3dd6f8f15f27ab50/balance_02_1920X1440.png?w=768&h=576&f=center&fit=fill",
+            "width": 768,
+            "height": 576
+          },
+          "medium": {
+            "title": "balance 02_1920X1440.png",
+            "path": "/itokmmsh1501/2m02ZrFwjSKYBVB4lTZdh4/3ca2437931466b2c3dd6f8f15f27ab50/balance_02_1920X1440.png?w=960&h=720&f=center&fit=fill",
+            "width": 960,
+            "height": 720
+          },
+          "mediumRetina": {
+            "title": "balance 02_1920X1440.png",
+            "path": "/itokmmsh1501/2m02ZrFwjSKYBVB4lTZdh4/3ca2437931466b2c3dd6f8f15f27ab50/balance_02_1920X1440.png?w=1152&h=864&f=center&fit=fill",
+            "width": 1152,
+            "height": 864
+          },
+          "large": {
+            "title": "balance 02_1920X1440.png",
+            "path": "/itokmmsh1501/2m02ZrFwjSKYBVB4lTZdh4/3ca2437931466b2c3dd6f8f15f27ab50/balance_02_1920X1440.png?w=1536&h=1152&f=center&fit=fill",
+            "width": 1536,
+            "height": 1152
+          },
+          "largeRetina": {
+            "title": "balance 02_1920X1440.png",
+            "path": "/itokmmsh1501/2m02ZrFwjSKYBVB4lTZdh4/3ca2437931466b2c3dd6f8f15f27ab50/balance_02_1920X1440.png?w=1920&h=1440&f=center&fit=fill",
+            "width": 1920,
+            "height": 1440
+          }
+        },
+        "details": {
+          "0": {
+            "title": "Heroes",
+            "order": "0",
+            "type": "textBlock",
+            "body": ""
+          },
+          "1": {
+            "title": "Countess",
+            "order": "1",
+            "position": "left",
+            "type": "featureBlock",
+            "body": "<p></p><ul><li><p>Base HP reduced to 42 from 44</p></li><li><p>Promotion 1: +5 DMG from +6 DMG</p></li></ul><p></p>",
+            "image": {
+              "small": {
+                "title": "Countess.png",
+                "path": "/itokmmsh1501/3V2bjq6kGlYp5ky9IPzc42/86a94b62067b29549b4c1df93b70700b/Countess.png?w=140&h=140&f=center&fit=fill",
+                "width": 140,
+                "height": 140
+              },
+              "smallRetina": {
+                "title": "Countess.png",
+                "path": "/itokmmsh1501/3V2bjq6kGlYp5ky9IPzc42/86a94b62067b29549b4c1df93b70700b/Countess.png?w=280&h=280&f=center&fit=fill",
+                "width": 280,
+                "height": 280
+              },
+              "medium": {
+                "title": "Countess.png",
+                "path": "/itokmmsh1501/3V2bjq6kGlYp5ky9IPzc42/86a94b62067b29549b4c1df93b70700b/Countess.png?w=350&h=350&f=center&fit=fill",
+                "width": 350,
+                "height": 350
+              },
+              "mediumRetina": {
+                "title": "Countess.png",
+                "path": "/itokmmsh1501/3V2bjq6kGlYp5ky9IPzc42/86a94b62067b29549b4c1df93b70700b/Countess.png?w=420&h=420&f=center&fit=fill",
+                "width": 420,
+                "height": 420
+              },
+              "large": {
+                "title": "Countess.png",
+                "path": "/itokmmsh1501/3V2bjq6kGlYp5ky9IPzc42/86a94b62067b29549b4c1df93b70700b/Countess.png?w=560&h=560&f=center&fit=fill",
+                "width": 560,
+                "height": 560
+              },
+              "largeRetina": {
+                "title": "Countess.png",
+                "path": "/itokmmsh1501/3V2bjq6kGlYp5ky9IPzc42/86a94b62067b29549b4c1df93b70700b/Countess.png?w=700&h=700&f=center&fit=fill",
+                "width": 700,
+                "height": 700
+              }
+            }
+          },
+          "2": {
+            "title": "Wave Master",
+            "order": "2",
+            "position": "left",
+            "type": "featureBlock",
+            "body": "<p></p><ul><li><p>Energy cost reduced to 8 from 9</p></li><li><p>SUPER DMG increased to 3x from 2x</p></li></ul><p></p>",
+            "image": {
+              "small": {
+                "title": "u8_Wave Master.png",
+                "path": "/itokmmsh1501/3Wm57bHQ3l22KGxqe0g88V/93bc1ddefe740b51ca810224fc343953/u8_Wave_Master.png?w=140&h=140&f=center&fit=fill",
+                "width": 140,
+                "height": 140
+              },
+              "smallRetina": {
+                "title": "u8_Wave Master.png",
+                "path": "/itokmmsh1501/3Wm57bHQ3l22KGxqe0g88V/93bc1ddefe740b51ca810224fc343953/u8_Wave_Master.png?w=280&h=280&f=center&fit=fill",
+                "width": 280,
+                "height": 280
+              },
+              "medium": {
+                "title": "u8_Wave Master.png",
+                "path": "/itokmmsh1501/3Wm57bHQ3l22KGxqe0g88V/93bc1ddefe740b51ca810224fc343953/u8_Wave_Master.png?w=350&h=350&f=center&fit=fill",
+                "width": 350,
+                "height": 350
+              },
+              "mediumRetina": {
+                "title": "u8_Wave Master.png",
+                "path": "/itokmmsh1501/3Wm57bHQ3l22KGxqe0g88V/93bc1ddefe740b51ca810224fc343953/u8_Wave_Master.png?w=420&h=420&f=center&fit=fill",
+                "width": 420,
+                "height": 420
+              },
+              "large": {
+                "title": "u8_Wave Master.png",
+                "path": "/itokmmsh1501/3Wm57bHQ3l22KGxqe0g88V/93bc1ddefe740b51ca810224fc343953/u8_Wave_Master.png?w=560&h=560&f=center&fit=fill",
+                "width": 560,
+                "height": 560
+              },
+              "largeRetina": {
+                "title": "u8_Wave Master.png",
+                "path": "/itokmmsh1501/3Wm57bHQ3l22KGxqe0g88V/93bc1ddefe740b51ca810224fc343953/u8_Wave_Master.png?w=700&h=700&f=center&fit=fill",
+                "width": 700,
+                "height": 700
+              }
+            }
+          },
+          "3": {
+            "title": "Skeleton King",
+            "order": "3",
+            "position": "left",
+            "type": "featureBlock",
+            "body": "<p></p><ul><li><p>Base ATK SPD increased to 1.0 from 0.9</p></li><li><p>Promotion 2: HP Steal increased to 150% from 100%</p></li></ul><p></p>",
+            "image": {
+              "small": {
+                "title": "Skeleton King.png",
+                "path": "/itokmmsh1501/4YO2OxFoexayxAShXc6U5I/99b6e0a190717f3a91eaa8caee7305c4/Skeleton_King.png?w=140&h=140&f=center&fit=fill",
+                "width": 140,
+                "height": 140
+              },
+              "smallRetina": {
+                "title": "Skeleton King.png",
+                "path": "/itokmmsh1501/4YO2OxFoexayxAShXc6U5I/99b6e0a190717f3a91eaa8caee7305c4/Skeleton_King.png?w=280&h=280&f=center&fit=fill",
+                "width": 280,
+                "height": 280
+              },
+              "medium": {
+                "title": "Skeleton King.png",
+                "path": "/itokmmsh1501/4YO2OxFoexayxAShXc6U5I/99b6e0a190717f3a91eaa8caee7305c4/Skeleton_King.png?w=350&h=350&f=center&fit=fill",
+                "width": 350,
+                "height": 350
+              },
+              "mediumRetina": {
+                "title": "Skeleton King.png",
+                "path": "/itokmmsh1501/4YO2OxFoexayxAShXc6U5I/99b6e0a190717f3a91eaa8caee7305c4/Skeleton_King.png?w=420&h=420&f=center&fit=fill",
+                "width": 420,
+                "height": 420
+              },
+              "large": {
+                "title": "Skeleton King.png",
+                "path": "/itokmmsh1501/4YO2OxFoexayxAShXc6U5I/99b6e0a190717f3a91eaa8caee7305c4/Skeleton_King.png?w=560&h=560&f=center&fit=fill",
+                "width": 560,
+                "height": 560
+              },
+              "largeRetina": {
+                "title": "Skeleton King.png",
+                "path": "/itokmmsh1501/4YO2OxFoexayxAShXc6U5I/99b6e0a190717f3a91eaa8caee7305c4/Skeleton_King.png?w=700&h=700&f=center&fit=fill",
+                "width": 700,
+                "height": 700
+              }
+            }
+          },
+          "4": {
+            "title": "Archer Queen",
+            "order": "4",
+            "position": "left",
+            "type": "featureBlock",
+            "body": "<p>Promotion 1: Gain 2x ATK DMG for 5s from 4s</p>",
+            "image": {
+              "small": {
+                "title": "Archer Queen.png",
+                "path": "/itokmmsh1501/39w8QQWsO6rSMgq4wgTBoS/845de6c77d9cc3e83fd064b7d41dc54a/Archer_Queen.png?w=140&h=140&f=center&fit=fill",
+                "width": 140,
+                "height": 140
+              },
+              "smallRetina": {
+                "title": "Archer Queen.png",
+                "path": "/itokmmsh1501/39w8QQWsO6rSMgq4wgTBoS/845de6c77d9cc3e83fd064b7d41dc54a/Archer_Queen.png?w=280&h=280&f=center&fit=fill",
+                "width": 280,
+                "height": 280
+              },
+              "medium": {
+                "title": "Archer Queen.png",
+                "path": "/itokmmsh1501/39w8QQWsO6rSMgq4wgTBoS/845de6c77d9cc3e83fd064b7d41dc54a/Archer_Queen.png?w=350&h=350&f=center&fit=fill",
+                "width": 350,
+                "height": 350
+              },
+              "mediumRetina": {
+                "title": "Archer Queen.png",
+                "path": "/itokmmsh1501/39w8QQWsO6rSMgq4wgTBoS/845de6c77d9cc3e83fd064b7d41dc54a/Archer_Queen.png?w=420&h=420&f=center&fit=fill",
+                "width": 420,
+                "height": 420
+              },
+              "large": {
+                "title": "Archer Queen.png",
+                "path": "/itokmmsh1501/39w8QQWsO6rSMgq4wgTBoS/845de6c77d9cc3e83fd064b7d41dc54a/Archer_Queen.png?w=560&h=560&f=center&fit=fill",
+                "width": 560,
+                "height": 560
+              },
+              "largeRetina": {
+                "title": "Archer Queen.png",
+                "path": "/itokmmsh1501/39w8QQWsO6rSMgq4wgTBoS/845de6c77d9cc3e83fd064b7d41dc54a/Archer_Queen.png?w=700&h=700&f=center&fit=fill",
+                "width": 700,
+                "height": 700
+              }
+            }
+          },
+          "5": {
+            "title": "Battle Machine",
+            "order": "5",
+            "position": "left",
+            "type": "featureBlock",
+            "body": "<p></p><ul><li><p>Gizmo Saint Mirror HP reduced to 32 from 40</p></li><li><p>Gizmo Mucho Puncho frequency increased to 2.5s from 3.0s</p></li><li><p>Gizmo Hot Pot HP reduced to 24 from 30</p></li></ul><p></p>",
+            "image": {
+              "small": {
+                "title": "dontuse1.png",
+                "path": "/itokmmsh1501/7hBdPTNiYfqAEKXMTnMxF0/40df4e16b355e77352fc7580cca0c1da/u8_hero_battlemachine.png?w=140&h=140&f=center&fit=fill",
+                "width": 140,
+                "height": 140
+              },
+              "smallRetina": {
+                "title": "dontuse1.png",
+                "path": "/itokmmsh1501/7hBdPTNiYfqAEKXMTnMxF0/40df4e16b355e77352fc7580cca0c1da/u8_hero_battlemachine.png?w=280&h=280&f=center&fit=fill",
+                "width": 280,
+                "height": 280
+              },
+              "medium": {
+                "title": "dontuse1.png",
+                "path": "/itokmmsh1501/7hBdPTNiYfqAEKXMTnMxF0/40df4e16b355e77352fc7580cca0c1da/u8_hero_battlemachine.png?w=350&h=350&f=center&fit=fill",
+                "width": 350,
+                "height": 350
+              },
+              "mediumRetina": {
+                "title": "dontuse1.png",
+                "path": "/itokmmsh1501/7hBdPTNiYfqAEKXMTnMxF0/40df4e16b355e77352fc7580cca0c1da/u8_hero_battlemachine.png?w=420&h=420&f=center&fit=fill",
+                "width": 420,
+                "height": 420
+              },
+              "large": {
+                "title": "dontuse1.png",
+                "path": "/itokmmsh1501/7hBdPTNiYfqAEKXMTnMxF0/40df4e16b355e77352fc7580cca0c1da/u8_hero_battlemachine.png?w=560&h=560&f=center&fit=fill",
+                "width": 560,
+                "height": 560
+              },
+              "largeRetina": {
+                "title": "dontuse1.png",
+                "path": "/itokmmsh1501/7hBdPTNiYfqAEKXMTnMxF0/40df4e16b355e77352fc7580cca0c1da/u8_hero_battlemachine.png?w=700&h=700&f=center&fit=fill",
+                "width": 700,
+                "height": 700
+              }
+            }
+          },
+          "6": {
+            "title": "Minis",
+            "order": "6",
+            "type": "textBlock",
+            "body": ""
+          },
+          "7": {
+            "title": "Lumberjack",
+            "order": "7",
+            "position": "left",
+            "type": "featureBlock",
+            "body": "<p></p><ul><li><p>Base Ability: Remove +1 Energy</p></li><li><p>Upgrade per HP increased to 12 from 10</p></li><li><p>Added Class: Clan</p></li></ul><p></p>",
+            "image": {
+              "small": {
+                "title": "Lumberjack.png",
+                "path": "/itokmmsh1501/yjLK0k5WKDCUu4oMBm0yF/f1ebb059e3eee30bb9c94cd4e1131794/Lumberjack.png?w=140&h=140&f=center&fit=fill",
+                "width": 140,
+                "height": 140
+              },
+              "smallRetina": {
+                "title": "Lumberjack.png",
+                "path": "/itokmmsh1501/yjLK0k5WKDCUu4oMBm0yF/f1ebb059e3eee30bb9c94cd4e1131794/Lumberjack.png?w=280&h=280&f=center&fit=fill",
+                "width": 280,
+                "height": 280
+              },
+              "medium": {
+                "title": "Lumberjack.png",
+                "path": "/itokmmsh1501/yjLK0k5WKDCUu4oMBm0yF/f1ebb059e3eee30bb9c94cd4e1131794/Lumberjack.png?w=350&h=350&f=center&fit=fill",
+                "width": 350,
+                "height": 350
+              },
+              "mediumRetina": {
+                "title": "Lumberjack.png",
+                "path": "/itokmmsh1501/yjLK0k5WKDCUu4oMBm0yF/f1ebb059e3eee30bb9c94cd4e1131794/Lumberjack.png?w=420&h=420&f=center&fit=fill",
+                "width": 420,
+                "height": 420
+              },
+              "large": {
+                "title": "Lumberjack.png",
+                "path": "/itokmmsh1501/yjLK0k5WKDCUu4oMBm0yF/f1ebb059e3eee30bb9c94cd4e1131794/Lumberjack.png?w=560&h=560&f=center&fit=fill",
+                "width": 560,
+                "height": 560
+              },
+              "largeRetina": {
+                "title": "Lumberjack.png",
+                "path": "/itokmmsh1501/yjLK0k5WKDCUu4oMBm0yF/f1ebb059e3eee30bb9c94cd4e1131794/Lumberjack.png?w=700&h=700&f=center&fit=fill",
+                "width": 700,
+                "height": 700
+              }
+            }
+          },
+          "8": {
+            "title": "Inferno Warden",
+            "order": "8",
+            "position": "left",
+            "type": "featureBlock",
+            "body": "<p></p><ul><li><p>Energy cost reduced to 6 from 7</p></li><li><p>Starting Energy reduced to 4 from 5</p></li></ul><p></p>",
+            "image": {
+              "small": {
+                "title": "dontuse1.png",
+                "path": "/itokmmsh1501/47zLgaPYTuVsaaGvgW6xXY/1382019ec082a99bf300ec0ab1097886/u8_infernowarden.png?w=140&h=140&f=center&fit=fill",
+                "width": 140,
+                "height": 140
+              },
+              "smallRetina": {
+                "title": "dontuse1.png",
+                "path": "/itokmmsh1501/47zLgaPYTuVsaaGvgW6xXY/1382019ec082a99bf300ec0ab1097886/u8_infernowarden.png?w=280&h=280&f=center&fit=fill",
+                "width": 280,
+                "height": 280
+              },
+              "medium": {
+                "title": "dontuse1.png",
+                "path": "/itokmmsh1501/47zLgaPYTuVsaaGvgW6xXY/1382019ec082a99bf300ec0ab1097886/u8_infernowarden.png?w=350&h=350&f=center&fit=fill",
+                "width": 350,
+                "height": 350
+              },
+              "mediumRetina": {
+                "title": "dontuse1.png",
+                "path": "/itokmmsh1501/47zLgaPYTuVsaaGvgW6xXY/1382019ec082a99bf300ec0ab1097886/u8_infernowarden.png?w=420&h=420&f=center&fit=fill",
+                "width": 420,
+                "height": 420
+              },
+              "large": {
+                "title": "dontuse1.png",
+                "path": "/itokmmsh1501/47zLgaPYTuVsaaGvgW6xXY/1382019ec082a99bf300ec0ab1097886/u8_infernowarden.png?w=560&h=560&f=center&fit=fill",
+                "width": 560,
+                "height": 560
+              },
+              "largeRetina": {
+                "title": "dontuse1.png",
+                "path": "/itokmmsh1501/47zLgaPYTuVsaaGvgW6xXY/1382019ec082a99bf300ec0ab1097886/u8_infernowarden.png?w=700&h=700&f=center&fit=fill",
+                "width": 700,
+                "height": 700
+              }
+            }
+          },
+          "9": {
+            "title": "Golden Giant",
+            "order": "9",
+            "position": "left",
+            "type": "featureBlock",
+            "body": "<p></p><ul><li><p>Base HP increased to 35 from 30</p></li><li><p>Energy cost reduced to 7 from 8</p></li></ul><p></p>",
+            "image": {
+              "small": {
+                "title": "Golden Giant.png",
+                "path": "/itokmmsh1501/5Dj2q92aFJ5kaBx1EmGGPY/649933d1af18abecb1a28670402fb89c/Golden_Giant.png?w=140&h=140&f=center&fit=fill",
+                "width": 140,
+                "height": 140
+              },
+              "smallRetina": {
+                "title": "Golden Giant.png",
+                "path": "/itokmmsh1501/5Dj2q92aFJ5kaBx1EmGGPY/649933d1af18abecb1a28670402fb89c/Golden_Giant.png?w=280&h=280&f=center&fit=fill",
+                "width": 280,
+                "height": 280
+              },
+              "medium": {
+                "title": "Golden Giant.png",
+                "path": "/itokmmsh1501/5Dj2q92aFJ5kaBx1EmGGPY/649933d1af18abecb1a28670402fb89c/Golden_Giant.png?w=350&h=350&f=center&fit=fill",
+                "width": 350,
+                "height": 350
+              },
+              "mediumRetina": {
+                "title": "Golden Giant.png",
+                "path": "/itokmmsh1501/5Dj2q92aFJ5kaBx1EmGGPY/649933d1af18abecb1a28670402fb89c/Golden_Giant.png?w=420&h=420&f=center&fit=fill",
+                "width": 420,
+                "height": 420
+              },
+              "large": {
+                "title": "Golden Giant.png",
+                "path": "/itokmmsh1501/5Dj2q92aFJ5kaBx1EmGGPY/649933d1af18abecb1a28670402fb89c/Golden_Giant.png?w=560&h=560&f=center&fit=fill",
+                "width": 560,
+                "height": 560
+              },
+              "largeRetina": {
+                "title": "Golden Giant.png",
+                "path": "/itokmmsh1501/5Dj2q92aFJ5kaBx1EmGGPY/649933d1af18abecb1a28670402fb89c/Golden_Giant.png?w=700&h=700&f=center&fit=fill",
+                "width": 700,
+                "height": 700
+              }
+            }
+          },
+          "10": {
+            "title": "Royal Recruit",
+            "order": "10",
+            "position": "left",
+            "type": "featureBlock",
+            "body": "<p></p><ul><li><p>Upgrade 2: CLASH gives Block to 2 nearest allies from 1 nearest ally</p></li><li><p>Upgrade 3: Energy cost reduced to 6 from 7</p></li><li><p>HP per upgrade increased to 10 from 9</p></li></ul><p></p>",
+            "image": {
+              "small": {
+                "title": "u8_royalrecruit.png",
+                "path": "/itokmmsh1501/3hhgvUep5cyrz22f8QxRZ7/6ac2229a6164856b7ab3c611cb95d0e9/u8_royalrecruit.png?w=140&h=140&f=center&fit=fill",
+                "width": 140,
+                "height": 140
+              },
+              "smallRetina": {
+                "title": "u8_royalrecruit.png",
+                "path": "/itokmmsh1501/3hhgvUep5cyrz22f8QxRZ7/6ac2229a6164856b7ab3c611cb95d0e9/u8_royalrecruit.png?w=280&h=280&f=center&fit=fill",
+                "width": 280,
+                "height": 280
+              },
+              "medium": {
+                "title": "u8_royalrecruit.png",
+                "path": "/itokmmsh1501/3hhgvUep5cyrz22f8QxRZ7/6ac2229a6164856b7ab3c611cb95d0e9/u8_royalrecruit.png?w=350&h=350&f=center&fit=fill",
+                "width": 350,
+                "height": 350
+              },
+              "mediumRetina": {
+                "title": "u8_royalrecruit.png",
+                "path": "/itokmmsh1501/3hhgvUep5cyrz22f8QxRZ7/6ac2229a6164856b7ab3c611cb95d0e9/u8_royalrecruit.png?w=420&h=420&f=center&fit=fill",
+                "width": 420,
+                "height": 420
+              },
+              "large": {
+                "title": "u8_royalrecruit.png",
+                "path": "/itokmmsh1501/3hhgvUep5cyrz22f8QxRZ7/6ac2229a6164856b7ab3c611cb95d0e9/u8_royalrecruit.png?w=560&h=560&f=center&fit=fill",
+                "width": 560,
+                "height": 560
+              },
+              "largeRetina": {
+                "title": "u8_royalrecruit.png",
+                "path": "/itokmmsh1501/3hhgvUep5cyrz22f8QxRZ7/6ac2229a6164856b7ab3c611cb95d0e9/u8_royalrecruit.png?w=700&h=700&f=center&fit=fill",
+                "width": 700,
+                "height": 700
+              }
+            }
+          },
+          "11": {
+            "title": "Knight",
+            "order": "11",
+            "position": "left",
+            "type": "featureBlock",
+            "body": "<p></p><ul><li><p>Taunt (3s) all nearby enemies</p></li><li><p>Upgrade 2: Taunt lasts 5s (+2s) from 4s</p></li></ul><p></p>",
+            "image": {
+              "small": {
+                "title": "Knight.png",
+                "path": "/itokmmsh1501/2Z4H9plvc84REHiPwOzaC4/ff72d4bfe777dff63ad4fb80fd759790/Knight.png?w=140&h=140&f=center&fit=fill",
+                "width": 140,
+                "height": 140
+              },
+              "smallRetina": {
+                "title": "Knight.png",
+                "path": "/itokmmsh1501/2Z4H9plvc84REHiPwOzaC4/ff72d4bfe777dff63ad4fb80fd759790/Knight.png?w=280&h=280&f=center&fit=fill",
+                "width": 280,
+                "height": 280
+              },
+              "medium": {
+                "title": "Knight.png",
+                "path": "/itokmmsh1501/2Z4H9plvc84REHiPwOzaC4/ff72d4bfe777dff63ad4fb80fd759790/Knight.png?w=350&h=350&f=center&fit=fill",
+                "width": 350,
+                "height": 350
+              },
+              "mediumRetina": {
+                "title": "Knight.png",
+                "path": "/itokmmsh1501/2Z4H9plvc84REHiPwOzaC4/ff72d4bfe777dff63ad4fb80fd759790/Knight.png?w=420&h=420&f=center&fit=fill",
+                "width": 420,
+                "height": 420
+              },
+              "large": {
+                "title": "Knight.png",
+                "path": "/itokmmsh1501/2Z4H9plvc84REHiPwOzaC4/ff72d4bfe777dff63ad4fb80fd759790/Knight.png?w=560&h=560&f=center&fit=fill",
+                "width": 560,
+                "height": 560
+              },
+              "largeRetina": {
+                "title": "Knight.png",
+                "path": "/itokmmsh1501/2Z4H9plvc84REHiPwOzaC4/ff72d4bfe777dff63ad4fb80fd759790/Knight.png?w=700&h=700&f=center&fit=fill",
+                "width": 700,
+                "height": 700
+              }
+            }
+          },
+          "12": {
+            "title": "Barbarian",
+            "order": "12",
+            "position": "left",
+            "type": "featureBlock",
+            "body": "<p></p><ul><li><p>Base HP increased to 15 from 12</p></li><li><p>Gain 5% ATK SPD from 4% ATK SPD</p></li></ul><p></p>",
+            "image": {
+              "small": {
+                "title": "Barbarian.png",
+                "path": "/itokmmsh1501/4kfsYUQrn1vqzdFtJ1cXB7/2563d3e1d7d1a7a2c27e2e89d429a30b/Barbarian.png?w=140&h=140&f=center&fit=fill",
+                "width": 140,
+                "height": 140
+              },
+              "smallRetina": {
+                "title": "Barbarian.png",
+                "path": "/itokmmsh1501/4kfsYUQrn1vqzdFtJ1cXB7/2563d3e1d7d1a7a2c27e2e89d429a30b/Barbarian.png?w=280&h=280&f=center&fit=fill",
+                "width": 280,
+                "height": 280
+              },
+              "medium": {
+                "title": "Barbarian.png",
+                "path": "/itokmmsh1501/4kfsYUQrn1vqzdFtJ1cXB7/2563d3e1d7d1a7a2c27e2e89d429a30b/Barbarian.png?w=350&h=350&f=center&fit=fill",
+                "width": 350,
+                "height": 350
+              },
+              "mediumRetina": {
+                "title": "Barbarian.png",
+                "path": "/itokmmsh1501/4kfsYUQrn1vqzdFtJ1cXB7/2563d3e1d7d1a7a2c27e2e89d429a30b/Barbarian.png?w=420&h=420&f=center&fit=fill",
+                "width": 420,
+                "height": 420
+              },
+              "large": {
+                "title": "Barbarian.png",
+                "path": "/itokmmsh1501/4kfsYUQrn1vqzdFtJ1cXB7/2563d3e1d7d1a7a2c27e2e89d429a30b/Barbarian.png?w=560&h=560&f=center&fit=fill",
+                "width": 560,
+                "height": 560
+              },
+              "largeRetina": {
+                "title": "Barbarian.png",
+                "path": "/itokmmsh1501/4kfsYUQrn1vqzdFtJ1cXB7/2563d3e1d7d1a7a2c27e2e89d429a30b/Barbarian.png?w=700&h=700&f=center&fit=fill",
+                "width": 700,
+                "height": 700
+              }
+            }
+          },
+          "13": {
+            "title": null,
+            "order": "13",
+            "type": "imageBlock",
+            "image": {
+              "small": {
+                "title": "Untitled-1.png",
+                "path": "/itokmmsh1501/7IDlVNhJDxlc09qX7oE3Ql/1a4ec550519a2574fe67763318632529/Untitled-1.png?w=282&h=144&f=center&fit=fill",
+                "width": 282,
+                "height": 144
+              },
+              "smallRetina": {
+                "title": "Untitled-1.png",
+                "path": "/itokmmsh1501/7IDlVNhJDxlc09qX7oE3Ql/1a4ec550519a2574fe67763318632529/Untitled-1.png?w=563&h=288&f=center&fit=fill",
+                "width": 563,
+                "height": 288
+              },
+              "medium": {
+                "title": "Untitled-1.png",
+                "path": "/itokmmsh1501/7IDlVNhJDxlc09qX7oE3Ql/1a4ec550519a2574fe67763318632529/Untitled-1.png?w=704&h=360&f=center&fit=fill",
+                "width": 704,
+                "height": 360
+              },
+              "mediumRetina": {
+                "title": "Untitled-1.png",
+                "path": "/itokmmsh1501/7IDlVNhJDxlc09qX7oE3Ql/1a4ec550519a2574fe67763318632529/Untitled-1.png?w=845&h=432&f=center&fit=fill",
+                "width": 845,
+                "height": 432
+              },
+              "large": {
+                "title": "Untitled-1.png",
+                "path": "/itokmmsh1501/7IDlVNhJDxlc09qX7oE3Ql/1a4ec550519a2574fe67763318632529/Untitled-1.png?w=1126&h=576&f=center&fit=fill",
+                "width": 1126,
+                "height": 576
+              },
+              "largeRetina": {
+                "title": "Untitled-1.png",
+                "path": "/itokmmsh1501/7IDlVNhJDxlc09qX7oE3Ql/1a4ec550519a2574fe67763318632529/Untitled-1.png?w=1408&h=720&f=center&fit=fill",
+                "width": 1408,
+                "height": 720
+              }
+            }
+          },
+          "14": {
+            "title": "Valkyrie, Swordsman and Royal Ghost",
+            "order": "14",
+            "type": "textBlock",
+            "body": "<ul><li><p>Upgrade 2: Boast: Heal 30% HP instantly from over 3s</p></li></ul><p></p>"
+          },
+          "15": {
+            "title": "Skeleton Guard",
+            "order": "15",
+            "position": "left",
+            "type": "featureBlock",
+            "body": "<p></p><ul><li><p>Gain 10 Shield from 8 Shield</p></li><li><p>Upgrade1: Gain 15 Shield from 12 Shield</p></li></ul><p></p>",
+            "image": {
+              "small": {
+                "title": "Skeleton Guard.png",
+                "path": "/itokmmsh1501/13g7xYKDTJdjFdpDnvavI3/edad98b45dcea7fee5907b60e492c451/Skeleton_Guard.png?w=140&h=140&f=center&fit=fill",
+                "width": 140,
+                "height": 140
+              },
+              "smallRetina": {
+                "title": "Skeleton Guard.png",
+                "path": "/itokmmsh1501/13g7xYKDTJdjFdpDnvavI3/edad98b45dcea7fee5907b60e492c451/Skeleton_Guard.png?w=280&h=280&f=center&fit=fill",
+                "width": 280,
+                "height": 280
+              },
+              "medium": {
+                "title": "Skeleton Guard.png",
+                "path": "/itokmmsh1501/13g7xYKDTJdjFdpDnvavI3/edad98b45dcea7fee5907b60e492c451/Skeleton_Guard.png?w=350&h=350&f=center&fit=fill",
+                "width": 350,
+                "height": 350
+              },
+              "mediumRetina": {
+                "title": "Skeleton Guard.png",
+                "path": "/itokmmsh1501/13g7xYKDTJdjFdpDnvavI3/edad98b45dcea7fee5907b60e492c451/Skeleton_Guard.png?w=420&h=420&f=center&fit=fill",
+                "width": 420,
+                "height": 420
+              },
+              "large": {
+                "title": "Skeleton Guard.png",
+                "path": "/itokmmsh1501/13g7xYKDTJdjFdpDnvavI3/edad98b45dcea7fee5907b60e492c451/Skeleton_Guard.png?w=560&h=560&f=center&fit=fill",
+                "width": 560,
+                "height": 560
+              },
+              "largeRetina": {
+                "title": "Skeleton Guard.png",
+                "path": "/itokmmsh1501/13g7xYKDTJdjFdpDnvavI3/edad98b45dcea7fee5907b60e492c451/Skeleton_Guard.png?w=700&h=700&f=center&fit=fill",
+                "width": 700,
+                "height": 700
+              }
+            }
+          },
+          "16": {
+            "title": "Miner",
+            "order": "16",
+            "position": "left",
+            "type": "featureBlock",
+            "body": "<ul><li><p>Upgrade 2: Gain Rage when Isolated</p></li></ul><p></p>",
+            "image": {
+              "small": {
+                "title": "Miner.png",
+                "path": "/itokmmsh1501/5QwM17c7zXjZW29wm53jLu/d8f17e9f2ab2fa947d223a5dc29ee70f/Miner.png?w=140&h=140&f=center&fit=fill",
+                "width": 140,
+                "height": 140
+              },
+              "smallRetina": {
+                "title": "Miner.png",
+                "path": "/itokmmsh1501/5QwM17c7zXjZW29wm53jLu/d8f17e9f2ab2fa947d223a5dc29ee70f/Miner.png?w=280&h=280&f=center&fit=fill",
+                "width": 280,
+                "height": 280
+              },
+              "medium": {
+                "title": "Miner.png",
+                "path": "/itokmmsh1501/5QwM17c7zXjZW29wm53jLu/d8f17e9f2ab2fa947d223a5dc29ee70f/Miner.png?w=350&h=350&f=center&fit=fill",
+                "width": 350,
+                "height": 350
+              },
+              "mediumRetina": {
+                "title": "Miner.png",
+                "path": "/itokmmsh1501/5QwM17c7zXjZW29wm53jLu/d8f17e9f2ab2fa947d223a5dc29ee70f/Miner.png?w=420&h=420&f=center&fit=fill",
+                "width": 420,
+                "height": 420
+              },
+              "large": {
+                "title": "Miner.png",
+                "path": "/itokmmsh1501/5QwM17c7zXjZW29wm53jLu/d8f17e9f2ab2fa947d223a5dc29ee70f/Miner.png?w=560&h=560&f=center&fit=fill",
+                "width": 560,
+                "height": 560
+              },
+              "largeRetina": {
+                "title": "Miner.png",
+                "path": "/itokmmsh1501/5QwM17c7zXjZW29wm53jLu/d8f17e9f2ab2fa947d223a5dc29ee70f/Miner.png?w=700&h=700&f=center&fit=fill",
+                "width": 700,
+                "height": 700
+              }
+            }
+          },
+          "17": {
+            "title": "Dagger Goblin",
+            "order": "17",
+            "position": "left",
+            "type": "featureBlock",
+            "body": "<ul><li><p>Added Class: Rogue</p></li></ul><p></p>",
+            "image": {
+              "small": {
+                "title": "daggergoblin.png",
+                "path": "/itokmmsh1501/4jxYeXHjnkFH4btyGyYxib/3c58c781637669eaec68dbee7561e9b1/daggergoblin.png?w=140&h=140&f=center&fit=fill",
+                "width": 140,
+                "height": 140
+              },
+              "smallRetina": {
+                "title": "daggergoblin.png",
+                "path": "/itokmmsh1501/4jxYeXHjnkFH4btyGyYxib/3c58c781637669eaec68dbee7561e9b1/daggergoblin.png?w=280&h=280&f=center&fit=fill",
+                "width": 280,
+                "height": 280
+              },
+              "medium": {
+                "title": "daggergoblin.png",
+                "path": "/itokmmsh1501/4jxYeXHjnkFH4btyGyYxib/3c58c781637669eaec68dbee7561e9b1/daggergoblin.png?w=350&h=350&f=center&fit=fill",
+                "width": 350,
+                "height": 350
+              },
+              "mediumRetina": {
+                "title": "daggergoblin.png",
+                "path": "/itokmmsh1501/4jxYeXHjnkFH4btyGyYxib/3c58c781637669eaec68dbee7561e9b1/daggergoblin.png?w=420&h=420&f=center&fit=fill",
+                "width": 420,
+                "height": 420
+              },
+              "large": {
+                "title": "daggergoblin.png",
+                "path": "/itokmmsh1501/4jxYeXHjnkFH4btyGyYxib/3c58c781637669eaec68dbee7561e9b1/daggergoblin.png?w=560&h=560&f=center&fit=fill",
+                "width": 560,
+                "height": 560
+              },
+              "largeRetina": {
+                "title": "daggergoblin.png",
+                "path": "/itokmmsh1501/4jxYeXHjnkFH4btyGyYxib/3c58c781637669eaec68dbee7561e9b1/daggergoblin.png?w=700&h=700&f=center&fit=fill",
+                "width": 700,
+                "height": 700
+              }
+            }
+          },
+          "18": {
+            "title": "Bug Fixes",
+            "order": "18",
+            "type": "textBlock",
+            "body": "<ul><li><p>Fixed the bug when Head Hunter triggers the Rogue Effect she would gain an additional 1 Energy</p></li><li><p>Fixed the bug where Ice Wizard would freeze the target in some scenarios</p></li></ul><p></p>"
+          }
+        }
+      },
+      {
+        "id": "5IC9ZTfRxJUm7zSZe7AJ1P",
+        "index": 3,
+        "targeting": null,
+        "metadata": {
+          "id": "5IC9ZTfRxJUm7zSZe7AJ1P",
+          "publishedVersion": 17,
+          "publishedAt": "2024-02-05T11:58:14.519Z"
+        },
+        "postDate": "1706517565",
+        "lang": "en",
+        "section": "newsEntries",
+        "title": "Ranked Season 3 Preview",
+        "categories": [{ "title": "News", "color": "#99ffbb" }],
+        "newUntil": "1707062400",
+        "type": "newsEntry",
+        "listingSize": "large",
+        "showInNewsFeed": "SHOW_IN_NEWS_FEED",
+        "thumbnail": {
+          "small": {
+            "title": "900x506.png",
+            "path": "/bundle/clashmini/900x506.webp?w=180&h=101&f=center&fit=fill",
+            "width": 180,
+            "height": 101
+          },
+          "smallRetina": {
+            "title": "900x506.png",
+            "path": "/bundle/clashmini/900x506.webp?w=360&h=202&f=center&fit=fill",
+            "width": 360,
+            "height": 202
+          },
+          "medium": {
+            "title": "900x506.png",
+            "path": "/bundle/clashmini/900x506.webp?w=450&h=253&f=center&fit=fill",
+            "width": 450,
+            "height": 253
+          },
+          "mediumRetina": {
+            "title": "900x506.png",
+            "path": "/bundle/clashmini/900x506.webp?w=540&h=304&f=center&fit=fill",
+            "width": 540,
+            "height": 304
+          },
+          "large": {
+            "title": "900x506.png",
+            "path": "/bundle/clashmini/900x506.webp?w=720&h=405&f=center&fit=fill",
+            "width": 720,
+            "height": 405
+          },
+          "largeRetina": {
+            "title": "900x506.png",
+            "path": "/bundle/clashmini/900x506.webp?w=900&h=506&f=center&fit=fill",
+            "width": 900,
+            "height": 506
+          }
+        },
+        "heroImage": {
+          "small": {
+            "title": "1920x1440.png",
+            "path": "/itokmmsh1501/6jMoyQKaD9vGJVWspfMrvA/34500d89da534b6ae05c7d970a700049/1920x1440.png?w=384&h=288&f=center&fit=fill",
+            "width": 384,
+            "height": 288
+          },
+          "smallRetina": {
+            "title": "1920x1440.png",
+            "path": "/itokmmsh1501/6jMoyQKaD9vGJVWspfMrvA/34500d89da534b6ae05c7d970a700049/1920x1440.png?w=768&h=576&f=center&fit=fill",
+            "width": 768,
+            "height": 576
+          },
+          "medium": {
+            "title": "1920x1440.png",
+            "path": "/itokmmsh1501/6jMoyQKaD9vGJVWspfMrvA/34500d89da534b6ae05c7d970a700049/1920x1440.png?w=960&h=720&f=center&fit=fill",
+            "width": 960,
+            "height": 720
+          },
+          "mediumRetina": {
+            "title": "1920x1440.png",
+            "path": "/itokmmsh1501/6jMoyQKaD9vGJVWspfMrvA/34500d89da534b6ae05c7d970a700049/1920x1440.png?w=1152&h=864&f=center&fit=fill",
+            "width": 1152,
+            "height": 864
+          },
+          "large": {
+            "title": "1920x1440.png",
+            "path": "/itokmmsh1501/6jMoyQKaD9vGJVWspfMrvA/34500d89da534b6ae05c7d970a700049/1920x1440.png?w=1536&h=1152&f=center&fit=fill",
+            "width": 1536,
+            "height": 1152
+          },
+          "largeRetina": {
+            "title": "1920x1440.png",
+            "path": "/itokmmsh1501/6jMoyQKaD9vGJVWspfMrvA/34500d89da534b6ae05c7d970a700049/1920x1440.png?w=1920&h=1440&f=center&fit=fill",
+            "width": 1920,
+            "height": 1440
+          }
+        },
+        "details": {
+          "0": {
+            "title": "",
+            "order": "0",
+            "type": "textBlock",
+            "body": "<p>Hello everyone!</p><p>Welcome to the Ranked Season 3. The Season will begin on February 1st at 6:00 UTC. In this upcoming Season, we have:</p><p>New Cosmetics to unlock:</p><ul><li><p>A brand-new Skin to collect at 1800 Trophies: S3 League Fisherman!</p></li><li><p>A brand-new Avatar to collect at 3000 Trophies: S3 League Anchor!</p></li></ul><p>In addition, the February Mini Pass will begin at the same time, featuring Sharpshooty skin for Dart Goblin!</p>"
+          }
+        }
+      }
+    ],
+    "fullscreenEntries": []
+  },
+  "globals": {
+    "globalText.langVoteCheck": "Check vote",
+    "globalText.thanksForVoting": "Thanks for voting",
+    "globalText.langVoteSubmitLabel": "Submit",
+    "globalText.close": "Close",
+    "globalText.langVoteDefaultButtonLabel": "Vote",
+    "globalText.langVoteResultsButtonLabel": "Show Results",
+    "globalText.langOutOfFeed": "Looks like you’re out of feed.",
+    "globalText.langLoadMore": "Load More",
+    "globalText.langOlder": "Older",
+    "globalText.langNewer": "Newer",
+    "globalText.langGo": "Go!",
+    "globalText.langFollowUs": "Follow Us!",
+    "globalText.langSecondsCountdown": "Seconds",
+    "globalText.langSecondCountdown": "Second",
+    "globalText.langEndsIn": "Ends In",
+    "globalText.langMinutesCountdown": "Minutes",
+    "globalText.langMinuteCountdown": "Minute",
+    "globalText.langHoursCountdown": "Hours",
+    "globalText.langYouVoted": "You Voted",
+    "globalText.langVoteTryAgainLabel": "Vote - Try Again",
+    "globalText.langLoading": "Loading...",
+    "globalText.langCastYourVote": "Cast Your Vote",
+    "globalText.langMinutesAbbreviated": "min",
+    "globalText.langMinutesAgo": "{x} minutes ago",
+    "globalText.langMinuteAgo": "{x} minute ago",
+    "globalText.langHoursAbbreviated": "h",
+    "globalText.langHoursAgo": "{x} hours ago",
+    "globalText.langHourAgo": "{x} hour ago",
+    "globalText.langDaysAgo": "{x} days ago",
+    "globalText.langDays": "days",
+    "globalText.langDayAgo": "{x} day ago",
+    "globalText.langDay": "day",
+    "globalText.langSecondsAbbreviated": "sec",
+    "globalText.langHourCountdown": "Hour",
+    "globalText.langNew": "New",
+    "globalText.langBy": "By"
+  },
+  "socialLinks": [
+    {
+      "linkUrl": "https://www.youtube.com/clashmini",
+      "socialLinkImage": {
+        "small": {
+          "title": "icon-youtube.svg",
+          "path": "/bundle/clashmini/icon-youtube.svg?w=15&h=15&f=center&fit=fill",
+          "width": 15,
+          "height": 15
+        },
+        "smallRetina": {
+          "title": "icon-youtube.svg",
+          "path": "/bundle/clashmini/icon-youtube.svg?w=29&h=29&f=center&fit=fill",
+          "width": 29,
+          "height": 29
+        },
+        "medium": {
+          "title": "icon-youtube.svg",
+          "path": "/bundle/clashmini/icon-youtube.svg?w=37&h=37&f=center&fit=fill",
+          "width": 37,
+          "height": 37
+        },
+        "mediumRetina": {
+          "title": "icon-youtube.svg",
+          "path": "/bundle/clashmini/icon-youtube.svg?w=44&h=44&f=center&fit=fill",
+          "width": 44,
+          "height": 44
+        },
+        "large": {
+          "title": "icon-youtube.svg",
+          "path": "/bundle/clashmini/icon-youtube.svg?w=58&h=58&f=center&fit=fill",
+          "width": 58,
+          "height": 58
+        },
+        "largeRetina": {
+          "title": "icon-youtube.svg",
+          "path": "/bundle/clashmini/icon-youtube.svg?w=73&h=73&f=center&fit=fill",
+          "width": 73,
+          "height": 73
+        }
+      }
+    },
+    {
+      "linkUrl": "https://twitter.com/ClashMini",
+      "socialLinkImage": {
+        "small": {
+          "title": "icon-X.svg",
+          "path": "/bundle/clashmini/icon-X.svg?w=15&h=15&f=center&fit=fill",
+          "width": 15,
+          "height": 15
+        },
+        "smallRetina": {
+          "title": "icon-X.svg",
+          "path": "/bundle/clashmini/icon-X.svg?w=29&h=29&f=center&fit=fill",
+          "width": 29,
+          "height": 29
+        },
+        "medium": {
+          "title": "icon-X.svg",
+          "path": "/bundle/clashmini/icon-X.svg?w=37&h=37&f=center&fit=fill",
+          "width": 37,
+          "height": 37
+        },
+        "mediumRetina": {
+          "title": "icon-X.svg",
+          "path": "/bundle/clashmini/icon-X.svg?w=44&h=44&f=center&fit=fill",
+          "width": 44,
+          "height": 44
+        },
+        "large": {
+          "title": "icon-X.svg",
+          "path": "/bundle/clashmini/icon-X.svg?w=58&h=58&f=center&fit=fill",
+          "width": 58,
+          "height": 58
+        },
+        "largeRetina": {
+          "title": "icon-X.svg",
+          "path": "/bundle/clashmini/icon-X.svg?w=73&h=73&f=center&fit=fill",
+          "width": 73,
+          "height": 73
+        }
+      }
+    },
+    {
+      "linkUrl": "https://www.reddit.com/r/ClashMini/",
+      "socialLinkImage": {
+        "small": {
+          "title": "icon-reddit.svg",
+          "path": "/bundle/clashmini/icon-reddit.svg?w=15&h=15&f=center&fit=fill",
+          "width": 15,
+          "height": 15
+        },
+        "smallRetina": {
+          "title": "icon-reddit.svg",
+          "path": "/bundle/clashmini/icon-reddit.svg?w=30&h=30&f=center&fit=fill",
+          "width": 30,
+          "height": 30
+        },
+        "medium": {
+          "title": "icon-reddit.svg",
+          "path": "/bundle/clashmini/icon-reddit.svg?w=38&h=38&f=center&fit=fill",
+          "width": 38,
+          "height": 38
+        },
+        "mediumRetina": {
+          "title": "icon-reddit.svg",
+          "path": "/bundle/clashmini/icon-reddit.svg?w=45&h=45&f=center&fit=fill",
+          "width": 45,
+          "height": 45
+        },
+        "large": {
+          "title": "icon-reddit.svg",
+          "path": "/bundle/clashmini/icon-reddit.svg?w=60&h=60&f=center&fit=fill",
+          "width": 60,
+          "height": 60
+        },
+        "largeRetina": {
+          "title": "icon-reddit.svg",
+          "path": "/bundle/clashmini/icon-reddit.svg?w=75&h=75&f=center&fit=fill",
+          "width": 75,
+          "height": 75
+        }
+      }
+    },
+    {
+      "linkUrl": "https://www.instagram.com/clashmini",
+      "socialLinkImage": {
+        "small": {
+          "title": "icon-instagram.svg",
+          "path": "/bundle/clashmini/icon-instagram.svg?w=15&h=15&f=center&fit=fill",
+          "width": 15,
+          "height": 15
+        },
+        "smallRetina": {
+          "title": "icon-instagram.svg",
+          "path": "/bundle/clashmini/icon-instagram.svg?w=29&h=29&f=center&fit=fill",
+          "width": 29,
+          "height": 29
+        },
+        "medium": {
+          "title": "icon-instagram.svg",
+          "path": "/bundle/clashmini/icon-instagram.svg?w=37&h=37&f=center&fit=fill",
+          "width": 37,
+          "height": 37
+        },
+        "mediumRetina": {
+          "title": "icon-instagram.svg",
+          "path": "/bundle/clashmini/icon-instagram.svg?w=44&h=44&f=center&fit=fill",
+          "width": 44,
+          "height": 44
+        },
+        "large": {
+          "title": "icon-instagram.svg",
+          "path": "/bundle/clashmini/icon-instagram.svg?w=58&h=58&f=center&fit=fill",
+          "width": 58,
+          "height": 58
+        },
+        "largeRetina": {
+          "title": "icon-instagram.svg",
+          "path": "/bundle/clashmini/icon-instagram.svg?w=73&h=73&f=center&fit=fill",
+          "width": 73,
+          "height": 73
+        }
+      }
+    },
+    {
+      "linkUrl": "http://discord.gg/clashmini",
+      "socialLinkImage": {
+        "small": {
+          "title": "icon-discord.svg",
+          "path": "/bundle/clashmini/icon-discord.svg?w=15&h=15&f=center&fit=fill",
+          "width": 15,
+          "height": 15
+        },
+        "smallRetina": {
+          "title": "icon-discord.svg",
+          "path": "/bundle/clashmini/icon-discord.svg?w=29&h=29&f=center&fit=fill",
+          "width": 29,
+          "height": 29
+        },
+        "medium": {
+          "title": "icon-discord.svg",
+          "path": "/bundle/clashmini/icon-discord.svg?w=37&h=37&f=center&fit=fill",
+          "width": 37,
+          "height": 37
+        },
+        "mediumRetina": {
+          "title": "icon-discord.svg",
+          "path": "/bundle/clashmini/icon-discord.svg?w=44&h=44&f=center&fit=fill",
+          "width": 44,
+          "height": 44
+        },
+        "large": {
+          "title": "icon-discord.svg",
+          "path": "/bundle/clashmini/icon-discord.svg?w=58&h=58&f=center&fit=fill",
+          "width": 58,
+          "height": 58
+        },
+        "largeRetina": {
+          "title": "icon-discord.svg",
+          "path": "/bundle/clashmini/icon-discord.svg?w=73&h=73&f=center&fit=fill",
+          "width": 73,
+          "height": 73
+        }
+      }
+    },
+    {
+      "linkUrl": "https://www.tiktok.com/@clashmini",
+      "socialLinkImage": {
+        "small": {
+          "title": "icon-tiktok.svg",
+          "path": "/bundle/clashmini/icon-tiktok.svg?w=15&h=15&f=center&fit=fill",
+          "width": 15,
+          "height": 15
+        },
+        "smallRetina": {
+          "title": "icon-tiktok.svg",
+          "path": "/bundle/clashmini/icon-tiktok.svg?w=29&h=29&f=center&fit=fill",
+          "width": 29,
+          "height": 29
+        },
+        "medium": {
+          "title": "icon-tiktok.svg",
+          "path": "/bundle/clashmini/icon-tiktok.svg?w=37&h=37&f=center&fit=fill",
+          "width": 37,
+          "height": 37
+        },
+        "mediumRetina": {
+          "title": "icon-tiktok.svg",
+          "path": "/bundle/clashmini/icon-tiktok.svg?w=44&h=44&f=center&fit=fill",
+          "width": 44,
+          "height": 44
+        },
+        "large": {
+          "title": "icon-tiktok.svg",
+          "path": "/bundle/clashmini/icon-tiktok.svg?w=58&h=58&f=center&fit=fill",
+          "width": 58,
+          "height": 58
+        },
+        "largeRetina": {
+          "title": "icon-tiktok.svg",
+          "path": "/bundle/clashmini/icon-tiktok.svg?w=73&h=73&f=center&fit=fill",
+          "width": 73,
+          "height": 73
+        }
+      }
+    }
+  ]
+}
