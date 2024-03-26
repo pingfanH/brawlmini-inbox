@@ -23,37 +23,37 @@
         "thumbnail": {
           "small": {
             "title": "900x506.png",
-            "path": "/bundle/clashmini/900x506.webp?w=180&h=101&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/900x506.webp?w=180&h=101&f=center&fit=fill",
             "width": 180,
             "height": 101
           },
           "smallRetina": {
             "title": "900x506.png",
-            "path": "/bundle/clashmini/900x506.webp?w=360&h=202&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/900x506.webp?w=360&h=202&f=center&fit=fill",
             "width": 360,
             "height": 202
           },
           "medium": {
             "title": "900x506.png",
-            "path": "/bundle/clashmini/900x506.webp?w=450&h=253&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/900x506.webp?w=450&h=253&f=center&fit=fill",
             "width": 450,
             "height": 253
           },
           "mediumRetina": {
             "title": "900x506.png",
-            "path": "/bundle/clashmini/900x506.webp?w=540&h=304&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/900x506.webp?w=540&h=304&f=center&fit=fill",
             "width": 540,
             "height": 304
           },
           "large": {
             "title": "900x506.png",
-            "path": "/bundle/clashmini/900x506.webp?w=720&h=405&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/900x506.webp?w=720&h=405&f=center&fit=fill",
             "width": 720,
             "height": 405
           },
           "largeRetina": {
             "title": "900x506.png",
-            "path": "/bundle/clashmini/900x506.webp?w=900&h=506&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/900x506.webp?w=900&h=506&f=center&fit=fill",
             "width": 900,
             "height": 506
           }
@@ -61,7 +61,7 @@
         "heroImage": {
           "small": {
             "title": "1920x1440.png",
-            "path": "/bundle/clashmini/images/1920x1440.png?w=384&h=288&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/images/1920x1440.png?w=384&h=288&f=center&fit=fill",
             "width": 384,
             "height": 288
           },
@@ -73,25 +73,25 @@
           },
           "medium": {
             "title": "1920x1440.png",
-            "path": "/bundle/clashmini/images/1920x1440.png?w=960&h=720&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/images/1920x1440.png?w=960&h=720&f=center&fit=fill",
             "width": 960,
             "height": 720
           },
           "mediumRetina": {
             "title": "1920x1440.png",
-            "path": "/bundle/clashmini/images/1920x1440.png?w=1152&h=864&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/images/1920x1440.png?w=1152&h=864&f=center&fit=fill",
             "width": 1152,
             "height": 864
           },
           "large": {
             "title": "1920x1440.png",
-            "path": "/bundle/clashmini/images/1920x1440.png?w=1536&h=1152&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/images/1920x1440.png?w=1536&h=1152&f=center&fit=fill",
             "width": 1536,
             "height": 1152
           },
           "largeRetina": {
             "title": "1920x1440.png",
-            "path": "/bundle/clashmini/images/1920x1440.png?w=1920&h=1440&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/images/1920x1440.png?w=1920&h=1440&f=center&fit=fill",
             "width": 1920,
             "height": 1440
           }
@@ -126,37 +126,37 @@
         "thumbnail": {
           "small": {
             "title": "U7_inbox_900x506.png",
-            "path": "/bundle/clashmini/U7_inbox_900x506.webp?w=180&h=101&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/U7_inbox_900x506.webp?w=180&h=101&f=center&fit=fill",
             "width": 180,
             "height": 101
           },
           "smallRetina": {
             "title": "U7_inbox_900x506.png",
-            "path": "/bundle/clashmini/U7_inbox_900x506.webp?w=360&h=202&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/U7_inbox_900x506.webp?w=360&h=202&f=center&fit=fill",
             "width": 360,
             "height": 202
           },
           "medium": {
             "title": "U7_inbox_900x506.png",
-            "path": "/bundle/clashmini/U7_inbox_900x506.webp?w=450&h=253&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/U7_inbox_900x506.webp?w=450&h=253&f=center&fit=fill",
             "width": 450,
             "height": 253
           },
           "mediumRetina": {
             "title": "U7_inbox_900x506.png",
-            "path": "/bundle/clashmini/U7_inbox_900x506.webp?w=540&h=304&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/U7_inbox_900x506.webp?w=540&h=304&f=center&fit=fill",
             "width": 540,
             "height": 304
           },
           "large": {
             "title": "U7_inbox_900x506.png",
-            "path": "/bundle/clashmini/U7_inbox_900x506.webp?w=720&h=405&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/U7_inbox_900x506.webp?w=720&h=405&f=center&fit=fill",
             "width": 720,
             "height": 405
           },
           "largeRetina": {
             "title": "U7_inbox_900x506.png",
-            "path": "/bundle/clashmini/U7_inbox_900x506.webp?w=900&h=506&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/U7_inbox_900x506.webp?w=900&h=506&f=center&fit=fill",
             "width": 900,
             "height": 506
           }
@@ -229,37 +229,37 @@
         "thumbnail": {
           "small": {
             "title": "Balance2-900@506.jpg",
-            "path": "/bundle/clashmini/Balance2-900_506.webp?w=180&h=101&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/Balance2-900_506.webp?w=180&h=101&f=center&fit=fill",
             "width": 180,
             "height": 101
           },
           "smallRetina": {
             "title": "Balance2-900@506.jpg",
-            "path": "/bundle/clashmini/Balance2-900_506.webp?w=360&h=202&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/Balance2-900_506.webp?w=360&h=202&f=center&fit=fill",
             "width": 360,
             "height": 202
           },
           "medium": {
             "title": "Balance2-900@506.jpg",
-            "path": "/bundle/clashmini/Balance2-900_506.webp?w=450&h=253&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/Balance2-900_506.webp?w=450&h=253&f=center&fit=fill",
             "width": 450,
             "height": 253
           },
           "mediumRetina": {
             "title": "Balance2-900@506.jpg",
-            "path": "/bundle/clashmini/Balance2-900_506.webp?w=540&h=304&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/Balance2-900_506.webp?w=540&h=304&f=center&fit=fill",
             "width": 540,
             "height": 304
           },
           "large": {
             "title": "Balance2-900@506.jpg",
-            "path": "/bundle/clashmini/Balance2-900_506.webp?w=720&h=405&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/Balance2-900_506.webp?w=720&h=405&f=center&fit=fill",
             "width": 720,
             "height": 405
           },
           "largeRetina": {
             "title": "Balance2-900@506.jpg",
-            "path": "/bundle/clashmini/Balance2-900_506.webp?w=900&h=506&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/Balance2-900_506.webp?w=900&h=506&f=center&fit=fill",
             "width": 900,
             "height": 506
           }
@@ -1023,37 +1023,37 @@
         "thumbnail": {
           "small": {
             "title": "900x506.png",
-            "path": "/bundle/clashmini/900x506.webp?w=180&h=101&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/900x506.webp?w=180&h=101&f=center&fit=fill",
             "width": 180,
             "height": 101
           },
           "smallRetina": {
             "title": "900x506.png",
-            "path": "/bundle/clashmini/900x506.webp?w=360&h=202&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/900x506.webp?w=360&h=202&f=center&fit=fill",
             "width": 360,
             "height": 202
           },
           "medium": {
             "title": "900x506.png",
-            "path": "/bundle/clashmini/900x506.webp?w=450&h=253&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/900x506.webp?w=450&h=253&f=center&fit=fill",
             "width": 450,
             "height": 253
           },
           "mediumRetina": {
             "title": "900x506.png",
-            "path": "/bundle/clashmini/900x506.webp?w=540&h=304&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/900x506.webp?w=540&h=304&f=center&fit=fill",
             "width": 540,
             "height": 304
           },
           "large": {
             "title": "900x506.png",
-            "path": "/bundle/clashmini/900x506.webp?w=720&h=405&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/900x506.webp?w=720&h=405&f=center&fit=fill",
             "width": 720,
             "height": 405
           },
           "largeRetina": {
             "title": "900x506.png",
-            "path": "/bundle/clashmini/900x506.webp?w=900&h=506&f=center&fit=fill",
+            "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/900x506.webp?w=900&h=506&f=center&fit=fill",
             "width": 900,
             "height": 506
           }
@@ -1152,37 +1152,37 @@
       "socialLinkImage": {
         "small": {
           "title": "icon-youtube.svg",
-          "path": "/bundle/clashmini/icon-youtube.svg?w=15&h=15&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-youtube.svg?w=15&h=15&f=center&fit=fill",
           "width": 15,
           "height": 15
         },
         "smallRetina": {
           "title": "icon-youtube.svg",
-          "path": "/bundle/clashmini/icon-youtube.svg?w=29&h=29&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-youtube.svg?w=29&h=29&f=center&fit=fill",
           "width": 29,
           "height": 29
         },
         "medium": {
           "title": "icon-youtube.svg",
-          "path": "/bundle/clashmini/icon-youtube.svg?w=37&h=37&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-youtube.svg?w=37&h=37&f=center&fit=fill",
           "width": 37,
           "height": 37
         },
         "mediumRetina": {
           "title": "icon-youtube.svg",
-          "path": "/bundle/clashmini/icon-youtube.svg?w=44&h=44&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-youtube.svg?w=44&h=44&f=center&fit=fill",
           "width": 44,
           "height": 44
         },
         "large": {
           "title": "icon-youtube.svg",
-          "path": "/bundle/clashmini/icon-youtube.svg?w=58&h=58&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-youtube.svg?w=58&h=58&f=center&fit=fill",
           "width": 58,
           "height": 58
         },
         "largeRetina": {
           "title": "icon-youtube.svg",
-          "path": "/bundle/clashmini/icon-youtube.svg?w=73&h=73&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-youtube.svg?w=73&h=73&f=center&fit=fill",
           "width": 73,
           "height": 73
         }
@@ -1193,37 +1193,37 @@
       "socialLinkImage": {
         "small": {
           "title": "icon-X.svg",
-          "path": "/bundle/clashmini/icon-X.svg?w=15&h=15&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-X.svg?w=15&h=15&f=center&fit=fill",
           "width": 15,
           "height": 15
         },
         "smallRetina": {
           "title": "icon-X.svg",
-          "path": "/bundle/clashmini/icon-X.svg?w=29&h=29&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-X.svg?w=29&h=29&f=center&fit=fill",
           "width": 29,
           "height": 29
         },
         "medium": {
           "title": "icon-X.svg",
-          "path": "/bundle/clashmini/icon-X.svg?w=37&h=37&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-X.svg?w=37&h=37&f=center&fit=fill",
           "width": 37,
           "height": 37
         },
         "mediumRetina": {
           "title": "icon-X.svg",
-          "path": "/bundle/clashmini/icon-X.svg?w=44&h=44&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-X.svg?w=44&h=44&f=center&fit=fill",
           "width": 44,
           "height": 44
         },
         "large": {
           "title": "icon-X.svg",
-          "path": "/bundle/clashmini/icon-X.svg?w=58&h=58&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-X.svg?w=58&h=58&f=center&fit=fill",
           "width": 58,
           "height": 58
         },
         "largeRetina": {
           "title": "icon-X.svg",
-          "path": "/bundle/clashmini/icon-X.svg?w=73&h=73&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-X.svg?w=73&h=73&f=center&fit=fill",
           "width": 73,
           "height": 73
         }
@@ -1234,37 +1234,37 @@
       "socialLinkImage": {
         "small": {
           "title": "icon-reddit.svg",
-          "path": "/bundle/clashmini/icon-reddit.svg?w=15&h=15&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-reddit.svg?w=15&h=15&f=center&fit=fill",
           "width": 15,
           "height": 15
         },
         "smallRetina": {
           "title": "icon-reddit.svg",
-          "path": "/bundle/clashmini/icon-reddit.svg?w=30&h=30&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-reddit.svg?w=30&h=30&f=center&fit=fill",
           "width": 30,
           "height": 30
         },
         "medium": {
           "title": "icon-reddit.svg",
-          "path": "/bundle/clashmini/icon-reddit.svg?w=38&h=38&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-reddit.svg?w=38&h=38&f=center&fit=fill",
           "width": 38,
           "height": 38
         },
         "mediumRetina": {
           "title": "icon-reddit.svg",
-          "path": "/bundle/clashmini/icon-reddit.svg?w=45&h=45&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-reddit.svg?w=45&h=45&f=center&fit=fill",
           "width": 45,
           "height": 45
         },
         "large": {
           "title": "icon-reddit.svg",
-          "path": "/bundle/clashmini/icon-reddit.svg?w=60&h=60&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-reddit.svg?w=60&h=60&f=center&fit=fill",
           "width": 60,
           "height": 60
         },
         "largeRetina": {
           "title": "icon-reddit.svg",
-          "path": "/bundle/clashmini/icon-reddit.svg?w=75&h=75&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-reddit.svg?w=75&h=75&f=center&fit=fill",
           "width": 75,
           "height": 75
         }
@@ -1275,37 +1275,37 @@
       "socialLinkImage": {
         "small": {
           "title": "icon-instagram.svg",
-          "path": "/bundle/clashmini/icon-instagram.svg?w=15&h=15&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-instagram.svg?w=15&h=15&f=center&fit=fill",
           "width": 15,
           "height": 15
         },
         "smallRetina": {
           "title": "icon-instagram.svg",
-          "path": "/bundle/clashmini/icon-instagram.svg?w=29&h=29&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-instagram.svg?w=29&h=29&f=center&fit=fill",
           "width": 29,
           "height": 29
         },
         "medium": {
           "title": "icon-instagram.svg",
-          "path": "/bundle/clashmini/icon-instagram.svg?w=37&h=37&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-instagram.svg?w=37&h=37&f=center&fit=fill",
           "width": 37,
           "height": 37
         },
         "mediumRetina": {
           "title": "icon-instagram.svg",
-          "path": "/bundle/clashmini/icon-instagram.svg?w=44&h=44&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-instagram.svg?w=44&h=44&f=center&fit=fill",
           "width": 44,
           "height": 44
         },
         "large": {
           "title": "icon-instagram.svg",
-          "path": "/bundle/clashmini/icon-instagram.svg?w=58&h=58&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-instagram.svg?w=58&h=58&f=center&fit=fill",
           "width": 58,
           "height": 58
         },
         "largeRetina": {
           "title": "icon-instagram.svg",
-          "path": "/bundle/clashmini/icon-instagram.svg?w=73&h=73&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-instagram.svg?w=73&h=73&f=center&fit=fill",
           "width": 73,
           "height": 73
         }
@@ -1316,37 +1316,37 @@
       "socialLinkImage": {
         "small": {
           "title": "icon-discord.svg",
-          "path": "/bundle/clashmini/icon-discord.svg?w=15&h=15&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-discord.svg?w=15&h=15&f=center&fit=fill",
           "width": 15,
           "height": 15
         },
         "smallRetina": {
           "title": "icon-discord.svg",
-          "path": "/bundle/clashmini/icon-discord.svg?w=29&h=29&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-discord.svg?w=29&h=29&f=center&fit=fill",
           "width": 29,
           "height": 29
         },
         "medium": {
           "title": "icon-discord.svg",
-          "path": "/bundle/clashmini/icon-discord.svg?w=37&h=37&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-discord.svg?w=37&h=37&f=center&fit=fill",
           "width": 37,
           "height": 37
         },
         "mediumRetina": {
           "title": "icon-discord.svg",
-          "path": "/bundle/clashmini/icon-discord.svg?w=44&h=44&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-discord.svg?w=44&h=44&f=center&fit=fill",
           "width": 44,
           "height": 44
         },
         "large": {
           "title": "icon-discord.svg",
-          "path": "/bundle/clashmini/icon-discord.svg?w=58&h=58&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-discord.svg?w=58&h=58&f=center&fit=fill",
           "width": 58,
           "height": 58
         },
         "largeRetina": {
           "title": "icon-discord.svg",
-          "path": "/bundle/clashmini/icon-discord.svg?w=73&h=73&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-discord.svg?w=73&h=73&f=center&fit=fill",
           "width": 73,
           "height": 73
         }
@@ -1357,37 +1357,37 @@
       "socialLinkImage": {
         "small": {
           "title": "icon-tiktok.svg",
-          "path": "/bundle/clashmini/icon-tiktok.svg?w=15&h=15&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-tiktok.svg?w=15&h=15&f=center&fit=fill",
           "width": 15,
           "height": 15
         },
         "smallRetina": {
           "title": "icon-tiktok.svg",
-          "path": "/bundle/clashmini/icon-tiktok.svg?w=29&h=29&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-tiktok.svg?w=29&h=29&f=center&fit=fill",
           "width": 29,
           "height": 29
         },
         "medium": {
           "title": "icon-tiktok.svg",
-          "path": "/bundle/clashmini/icon-tiktok.svg?w=37&h=37&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-tiktok.svg?w=37&h=37&f=center&fit=fill",
           "width": 37,
           "height": 37
         },
         "mediumRetina": {
           "title": "icon-tiktok.svg",
-          "path": "/bundle/clashmini/icon-tiktok.svg?w=44&h=44&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-tiktok.svg?w=44&h=44&f=center&fit=fill",
           "width": 44,
           "height": 44
         },
         "large": {
           "title": "icon-tiktok.svg",
-          "path": "/bundle/clashmini/icon-tiktok.svg?w=58&h=58&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-tiktok.svg?w=58&h=58&f=center&fit=fill",
           "width": 58,
           "height": 58
         },
         "largeRetina": {
           "title": "icon-tiktok.svg",
-          "path": "/bundle/clashmini/icon-tiktok.svg?w=73&h=73&f=center&fit=fill",
+          "path": "https://raw.githubusercontent.com/pingfanH/brawlmini-inbox/main/bundle/clashmini/icon-tiktok.svg?w=73&h=73&f=center&fit=fill",
           "width": 73,
           "height": 73
         }
